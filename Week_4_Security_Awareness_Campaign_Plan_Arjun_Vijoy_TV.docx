@@ -1,0 +1,628 @@
+# WEEK 4 – SECURITY AWARENESS CAMPAIGN PLAN
+
+## Cybersecurity Internship
+
+**Name:** Arjun Vijoy T.V.
+**Task:** Week 4 – Security Awareness Campaign Planning
+**Organization:** Hypothetical Organization
+
+---
+
+# 1. Executive Summary
+
+This report presents a Security Awareness Campaign Plan designed for a hypothetical organization. The primary objective of the campaign is to educate employees about common cybersecurity threats and promote secure behavior while using organizational systems, devices, networks, applications, and information.
+
+Employees are an important part of an organization's cybersecurity defense. Human errors such as clicking malicious links, using weak passwords, sharing sensitive information, downloading unauthorized files, and failing to report suspicious activity can increase cybersecurity risks.
+
+The proposed campaign focuses on practical and easy-to-understand security awareness topics including phishing, password security, multi-factor authentication, social engineering, malware, data protection, safe browsing, device security, remote working, incident reporting, and physical security.
+
+The campaign uses multiple communication methods such as email awareness messages, posters, short training sessions, quizzes, simulated phishing exercises, security tips, videos, and interactive activities.
+
+The campaign is planned over a four-week period, with each week focusing on specific cybersecurity topics. Employee participation and campaign effectiveness will be measured using training completion rates, quiz scores, phishing simulation results, incident reporting rates, and employee feedback.
+
+---
+
+# 2. Introduction
+
+Cybersecurity is not only the responsibility of the IT or security team. Every employee who uses organizational technology plays a role in protecting company information and systems.
+
+Cybercriminals frequently target employees through phishing emails, social engineering, malicious attachments, fake websites, stolen credentials, and other techniques. Security awareness training can help employees recognize these threats and respond appropriately.
+
+This campaign plan provides a structured approach for educating employees and encouraging secure cybersecurity practices in their daily activities.
+
+---
+
+# 3. Campaign Objectives
+
+The main objectives of the Security Awareness Campaign are:
+
+* Improve employee cybersecurity awareness.
+* Teach employees how to identify common cyber threats.
+* Promote strong password and authentication practices.
+* Increase awareness of phishing and social engineering.
+* Encourage secure handling of organizational information.
+* Promote safe internet and email usage.
+* Improve awareness of device and remote-work security.
+* Encourage employees to report suspicious activity quickly.
+* Reduce security incidents caused by human error.
+* Build a positive security culture within the organization.
+
+---
+
+# 4. Target Audience
+
+The primary target audience is all employees of the hypothetical organization.
+
+The campaign will include:
+
+* New employees.
+* Existing employees.
+* Managers and team leaders.
+* IT and technical staff.
+* Employees working remotely.
+* Employees who regularly handle sensitive information.
+
+Additional specialized training can be provided to employees with administrative privileges or access to critical systems.
+
+---
+
+# 5. Key Awareness Topics
+
+## 5.1 Phishing Awareness
+
+Employees will learn how to identify suspicious emails and messages.
+
+Key points:
+
+* Check the sender address.
+* Avoid clicking suspicious links.
+* Be careful with unexpected attachments.
+* Verify unusual requests.
+* Look for suspicious language and urgency.
+* Report suspected phishing attempts.
+
+---
+
+## 5.2 Password Security
+
+Employees will be educated about protecting their accounts.
+
+Key practices:
+
+* Use strong and unique passwords.
+* Do not share passwords.
+* Avoid reusing passwords across important accounts.
+* Use an approved password manager where available.
+* Never store passwords in insecure locations.
+* Enable multi-factor authentication whenever available.
+
+---
+
+## 5.3 Multi-Factor Authentication
+
+Employees will learn why additional authentication provides another layer of protection.
+
+Awareness topics include:
+
+* What MFA is.
+* Why MFA is important.
+* How to approve legitimate authentication requests.
+* What to do when an unexpected MFA request is received.
+* Reporting suspicious authentication activity.
+
+---
+
+## 5.4 Social Engineering
+
+Employees will learn how attackers manipulate people into revealing information or performing unsafe actions.
+
+Examples include:
+
+* Fake technical support calls.
+* Fake managers or executives.
+* Urgent payment requests.
+* Fake password reset messages.
+* Impersonation through email or messaging platforms.
+
+Employees will be encouraged to independently verify unusual requests.
+
+---
+
+## 5.5 Malware and Malicious Files
+
+Employees will learn about malicious software and how it can enter an organization.
+
+Awareness points include:
+
+* Avoid unknown downloads.
+* Do not open unexpected attachments.
+* Install software only from approved sources.
+* Keep devices updated.
+* Report unusual device behavior.
+
+---
+
+## 5.6 Data Protection
+
+Employees should understand how to protect organizational information.
+
+Topics include:
+
+* Identifying sensitive information.
+* Sharing information only with authorized individuals.
+* Using approved storage systems.
+* Avoiding unauthorized cloud services.
+* Encrypting sensitive information when required.
+* Securely disposing of confidential documents.
+
+---
+
+## 5.7 Safe Internet Usage
+
+Employees will be educated about safe browsing practices.
+
+Key practices:
+
+* Verify websites before entering credentials.
+* Avoid suspicious websites.
+* Do not download unknown software.
+* Be cautious when using public Wi-Fi.
+* Avoid entering organizational credentials into unknown websites.
+
+---
+
+## 5.8 Device Security
+
+Employees will learn how to protect company devices.
+
+Important practices include:
+
+* Lock the screen when leaving the device.
+* Install security updates.
+* Use approved security software.
+* Do not disable security controls.
+* Report lost or stolen devices immediately.
+* Avoid connecting unknown USB devices.
+
+---
+
+## 5.9 Remote Work Security
+
+Remote employees should follow secure working practices.
+
+The campaign will cover:
+
+* Secure Wi-Fi usage.
+* Approved VPN or remote access methods.
+* Avoiding public computers for organizational work.
+* Protecting devices from unauthorized access.
+* Secure handling of company information at home.
+
+---
+
+## 5.10 Incident Reporting
+
+Employees should know when and how to report security incidents.
+
+Examples include:
+
+* Suspicious emails.
+* Accidental data sharing.
+* Lost devices.
+* Malware warnings.
+* Suspicious login notifications.
+* Unexpected MFA requests.
+* Suspected account compromise.
+
+Employees should report incidents quickly rather than attempting to hide or resolve serious incidents themselves.
+
+---
+
+# 6. Campaign Theme
+
+### Campaign Name
+
+**“Think Before You Click”**
+
+### Campaign Message
+
+**Pause. Verify. Protect.**
+
+The campaign encourages employees to stop and think before clicking links, opening attachments, sharing information, or responding to unusual requests.
+
+---
+
+# 7. Communication Methods
+
+Multiple communication methods will be used to reach employees effectively.
+
+## Email Awareness
+
+Short weekly emails will provide practical cybersecurity tips.
+
+Examples:
+
+* “5 Signs of a Phishing Email”
+* “Create Stronger Passwords”
+* “Don't Trust Urgent Requests”
+* “What to Do After Clicking a Suspicious Link”
+
+## Posters
+
+Posters can be displayed in common areas and near workstations.
+
+Example messages:
+
+* “Think Before You Click.”
+* “Stop. Check. Report.”
+* “Your Password Protects More Than You.”
+* “Unexpected Email? Verify First.”
+
+## Short Training Sessions
+
+Brief sessions will be conducted to explain important security topics using real-world examples.
+
+## Quizzes
+
+Short quizzes will test employee understanding after each major awareness topic.
+
+## Phishing Simulations
+
+Controlled phishing simulations can be used to measure whether employees recognize suspicious emails.
+
+The purpose is education and improvement rather than punishment.
+
+## Security Tips
+
+Short cybersecurity tips can be shared through internal communication platforms.
+
+---
+
+# 8. Four-Week Campaign Schedule
+
+## Week 1 – Cybersecurity Basics
+
+### Topics
+
+* Cybersecurity fundamentals.
+* Common cyber threats.
+* Password security.
+* Multi-factor authentication.
+
+### Activities
+
+* Awareness email.
+* Introductory training session.
+* Cybersecurity poster.
+* Short quiz.
+
+### Goal
+
+Create basic cybersecurity awareness among employees.
+
+---
+
+## Week 2 – Phishing and Social Engineering
+
+### Topics
+
+* Phishing.
+* Spear phishing.
+* Social engineering.
+* Impersonation.
+* Malicious links and attachments.
+
+### Activities
+
+* Phishing awareness email.
+* Example phishing messages.
+* Interactive quiz.
+* Controlled phishing simulation.
+
+### Goal
+
+Help employees identify and report suspicious communication.
+
+---
+
+## Week 3 – Data and Device Protection
+
+### Topics
+
+* Data protection.
+* Safe browsing.
+* Malware.
+* Device security.
+* Remote working security.
+
+### Activities
+
+* Data protection awareness message.
+* Device security checklist.
+* Short training video.
+* Security tips.
+
+### Goal
+
+Improve secure handling of organizational data and devices.
+
+---
+
+## Week 4 – Incident Reporting and Security Culture
+
+### Topics
+
+* Incident reporting.
+* Lost or stolen devices.
+* Account compromise.
+* Suspicious activity.
+* Employee security responsibilities.
+
+### Activities
+
+* Incident reporting guide.
+* Final cybersecurity quiz.
+* Security awareness challenge.
+* Employee feedback survey.
+
+### Goal
+
+Encourage employees to report security incidents and maintain secure behavior.
+
+---
+
+# 9. Creative Campaign Ideas
+
+## 9.1 Phishing Detective Challenge
+
+Employees receive examples of suspicious messages and identify the warning signs.
+
+Participants can earn recognition for correctly identifying phishing indicators.
+
+---
+
+## 9.2 Security Tip of the Week
+
+One simple cybersecurity tip is shared every week through internal communication channels.
+
+Example:
+
+**“Never approve an MFA request you did not initiate.”**
+
+---
+
+## 9.3 Cybersecurity Quiz
+
+A short quiz can test employees' knowledge of:
+
+* Phishing.
+* Passwords.
+* Social engineering.
+* Data protection.
+* Device security.
+
+---
+
+## 9.4 Security Awareness Poster Challenge
+
+Employees can create cybersecurity awareness posters based on assigned security topics.
+
+This encourages participation and makes awareness activities more interactive.
+
+---
+
+## 9.5 Spot the Phish
+
+Employees are shown several example emails and asked to identify which ones are suspicious.
+
+The activity helps employees practice identifying phishing indicators.
+
+---
+
+## 9.6 Security Champion Program
+
+Selected employees from different departments can act as Security Champions.
+
+Their responsibilities may include:
+
+* Sharing security tips.
+* Encouraging secure behavior.
+* Supporting awareness activities.
+* Helping employees identify reporting channels.
+
+---
+
+# 10. Employee Engagement Strategy
+
+The campaign should be interactive rather than relying only on long training sessions.
+
+Employee engagement can be encouraged through:
+
+* Short quizzes.
+* Challenges.
+* Real-world examples.
+* Recognition for participation.
+* Department-level awareness activities.
+* Interactive phishing exercises.
+* Feedback surveys.
+
+The campaign should use simple language and practical examples so that employees from both technical and non-technical backgrounds can participate.
+
+---
+
+# 11. Roles and Responsibilities
+
+## Security Team
+
+Responsible for:
+
+* Planning the campaign.
+* Preparing awareness materials.
+* Conducting training.
+* Running phishing simulations.
+* Measuring results.
+
+## IT Team
+
+Responsible for:
+
+* Supporting technical awareness activities.
+* Managing security tools.
+* Providing reporting mechanisms.
+* Supporting incident response.
+
+## Managers
+
+Responsible for:
+
+* Encouraging employee participation.
+* Ensuring training completion.
+* Supporting security initiatives.
+
+## Employees
+
+Responsible for:
+
+* Participating in awareness activities.
+* Following security policies.
+* Protecting organizational information.
+* Reporting suspicious activity.
+
+---
+
+# 12. Campaign Measurement
+
+The effectiveness of the campaign will be measured using several indicators.
+
+### Training Completion
+
+Percentage of employees who complete the awareness training.
+
+### Quiz Performance
+
+Average employee score in cybersecurity quizzes.
+
+### Phishing Simulation Results
+
+Percentage of employees who identify simulated phishing attempts correctly.
+
+### Incident Reporting
+
+Number and quality of security incidents reported by employees.
+
+### Employee Feedback
+
+Feedback collected through surveys after the campaign.
+
+### Security Behavior
+
+Reduction in unsafe activities such as clicking suspicious links or sharing sensitive information.
+
+---
+
+# 13. Success Criteria
+
+The campaign will be considered successful when:
+
+* Most employees complete the awareness training.
+* Employees demonstrate improved phishing recognition.
+* Security quiz performance improves.
+* More suspicious activities are reported.
+* Employees understand how to report incidents.
+* Employees demonstrate better password and device security practices.
+* Security awareness becomes part of normal workplace behavior.
+
+---
+
+# 14. Campaign Materials
+
+The following materials should be prepared:
+
+* Awareness emails.
+* Cybersecurity posters.
+* Training presentation.
+* Short educational videos.
+* Security checklists.
+* Phishing examples.
+* Quizzes.
+* Incident reporting guide.
+* Employee feedback survey.
+
+---
+
+# 15. Continuous Awareness Program
+
+Security awareness should not end after the four-week campaign.
+
+The organization should continue awareness activities throughout the year.
+
+Recommended activities include:
+
+* Monthly security tips.
+* Quarterly awareness training.
+* Periodic phishing simulations.
+* Annual security awareness training.
+* New employee security training.
+* Regular policy updates.
+* Security awareness newsletters.
+* Periodic cybersecurity exercises.
+
+---
+
+# 16. Risk Reduction Through Awareness
+
+A successful awareness program can help reduce risks associated with human error.
+
+Improved awareness can help employees:
+
+* Recognize phishing attempts.
+* Protect their credentials.
+* Handle sensitive information safely.
+* Avoid malicious downloads.
+* Secure company devices.
+* Report suspicious activity quickly.
+* Follow organizational security policies.
+
+Employee awareness should therefore be treated as an ongoing component of the organization's overall cybersecurity strategy.
+
+---
+
+# 17. Conclusion
+
+This Security Awareness Campaign Plan provides a structured approach for educating employees about cybersecurity best practices.
+
+The campaign focuses on practical topics including phishing, passwords, MFA, social engineering, malware, data protection, safe browsing, device security, remote work, and incident reporting.
+
+The four-week schedule combines multiple communication methods such as emails, posters, training sessions, quizzes, phishing simulations, and interactive challenges. This approach can help employees understand cybersecurity concepts and apply them in their daily activities.
+
+The campaign also includes measurable success criteria to evaluate its effectiveness. Training completion, quiz scores, phishing simulation results, incident reporting, and employee feedback can be used to identify areas requiring further improvement.
+
+Most importantly, cybersecurity awareness should continue beyond the initial campaign. Regular training, communication, simulations, and employee engagement can help establish a strong security culture within the organization.
+
+A well-planned awareness campaign can help employees become an active part of the organization's cybersecurity defense and reduce risks caused by human error.
+
+---
+
+# 18. References
+
+1. National Institute of Standards and Technology (NIST) – Cybersecurity Framework (CSF) 2.0.
+2. National Institute of Standards and Technology (NIST) – Security Awareness and Training Guidelines.
+3. Cybersecurity and Infrastructure Security Agency (CISA) – Cybersecurity Awareness Resources.
+4. Center for Internet Security (CIS) – CIS Controls.
+5. National Institute of Standards and Technology (NIST) – Digital Identity Guidelines.
+
+---
+
+# 19. Final Checklist
+
+* [x] Campaign objectives defined.
+* [x] Target audience identified.
+* [x] Key cybersecurity topics identified.
+* [x] Communication methods planned.
+* [x] Four-week schedule created.
+* [x] Creative campaign activities included.
+* [x] Employee engagement strategy included.
+* [x] Roles and responsibilities defined.
+* [x] Success metrics identified.
+* [x] Continuous awareness activities included.
+* [x] Conclusion and references provided.
